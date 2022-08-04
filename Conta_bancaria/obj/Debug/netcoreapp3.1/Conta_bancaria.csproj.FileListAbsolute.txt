@@ -1,0 +1,14 @@
+C:\Users\genie\Documents\16-07-22\Conta_Bancaria\Conta_bancaria\bin\Debug\netcoreapp3.1\Conta_bancaria.exe
+C:\Users\genie\Documents\16-07-22\Conta_Bancaria\Conta_bancaria\bin\Debug\netcoreapp3.1\Conta_bancaria.deps.json
+C:\Users\genie\Documents\16-07-22\Conta_Bancaria\Conta_bancaria\bin\Debug\netcoreapp3.1\Conta_bancaria.runtimeconfig.json
+C:\Users\genie\Documents\16-07-22\Conta_Bancaria\Conta_bancaria\bin\Debug\netcoreapp3.1\Conta_bancaria.runtimeconfig.dev.json
+C:\Users\genie\Documents\16-07-22\Conta_Bancaria\Conta_bancaria\bin\Debug\netcoreapp3.1\Conta_bancaria.dll
+C:\Users\genie\Documents\16-07-22\Conta_Bancaria\Conta_bancaria\bin\Debug\netcoreapp3.1\Conta_bancaria.pdb
+C:\Users\genie\Documents\16-07-22\Conta_Bancaria\Conta_bancaria\obj\Debug\netcoreapp3.1\Conta_bancaria.csproj.AssemblyReference.cache
+C:\Users\genie\Documents\16-07-22\Conta_Bancaria\Conta_bancaria\obj\Debug\netcoreapp3.1\Conta_bancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\genie\Documents\16-07-22\Conta_Bancaria\Conta_bancaria\obj\Debug\netcoreapp3.1\Conta_bancaria.AssemblyInfoInputs.cache
+C:\Users\genie\Documents\16-07-22\Conta_Bancaria\Conta_bancaria\obj\Debug\netcoreapp3.1\Conta_bancaria.AssemblyInfo.cs
+C:\Users\genie\Documents\16-07-22\Conta_Bancaria\Conta_bancaria\obj\Debug\netcoreapp3.1\Conta_bancaria.csproj.CoreCompileInputs.cache
+C:\Users\genie\Documents\16-07-22\Conta_Bancaria\Conta_bancaria\obj\Debug\netcoreapp3.1\Conta_bancaria.dll
+C:\Users\genie\Documents\16-07-22\Conta_Bancaria\Conta_bancaria\obj\Debug\netcoreapp3.1\Conta_bancaria.pdb
+C:\Users\genie\Documents\16-07-22\Conta_Bancaria\Conta_bancaria\obj\Debug\netcoreapp3.1\Conta_bancaria.genruntimeconfig.cache
